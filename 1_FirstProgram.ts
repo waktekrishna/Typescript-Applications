@@ -1,2 +1,2 @@
-var message:string = "Marvellous Infosystems Web Development" 
+var message:string = "Hello World" 
 console.log(message) 
