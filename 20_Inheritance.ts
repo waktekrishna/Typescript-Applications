@@ -42,11 +42,3 @@ class Student
  var obj1 = new Employee(11,"Krishna Wakte");
  obj1.DisplayS();
  obj1.DisplayE();
-
- // instanceof operator is used to check whether the specific variable is object of class or not
-
- var bret = obj1 instanceof Student; 
- console.log(" obj1 is an instance of Student " +bret);
-
- var bret = obj1 instanceof Employee; 
- console.log(" obj1 is an instance of Employee " +bret);
